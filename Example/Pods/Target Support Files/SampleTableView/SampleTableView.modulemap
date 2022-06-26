@@ -1,0 +1,6 @@
+framework module SampleTableView {
+  umbrella header "SampleTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
